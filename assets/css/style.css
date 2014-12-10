@@ -1,0 +1,34 @@
+body{
+    background: #FCFAD0;
+    height: 1000px;
+}
+
+.filter{
+    height: 50px;
+    width: 180px;
+    background: #3B424D;
+    border: none;
+    border-bottom: 3px solid #1D181F;
+    color: #fff;
+    padding: 0;
+    margin: 0 15px 50px 0;
+    outline: none;
+}
+
+
+.wrap{
+    margin: 150px auto;
+    width: 960px;
+}
+
+
+img{
+    border: 10px solid #fff;
+    display: block;
+    float: left;
+    margin: 20px 20px 0 0;
+}
+
+.content .mix {
+    display: none;
+}
